@@ -1,0 +1,141 @@
+﻿  ClassyKasino.cpp
+  GameManager.cpp
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\GameManager.cpp(89,28): error C2660: 'OddOrEven::Play': function does not take 0 arguments
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.h(8,7): message : see declaration of 'OddOrEven::Play'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\GameManager.cpp(89,28): message : while trying to match the argument list '()'
+  GuessNumberGame.cpp
+  OddOrEven.cpp
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(20,10): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(20,10): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(20,134): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(20,134): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(21,10): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(21,10): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(21,102): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(21,102): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(22,10): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(22,10): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(22,58): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(22,58): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(24,5): error C2653: 'CasinoFunctions': is not a class or namespace name
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(24,33): error C2065: 'aBoolForPlayingGame': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(24,54): error C2065: 'aCheckForPlaying': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(24,22): error C3861: 'LikeToPlay': identifier not found
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(26,12): error C2065: 'aBoolForPlayingGame': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(28,9): error C2653: 'CasinoFunctions': is not a class or namespace name
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(28,60): error C2065: 'aTotalOfCreditsWonInGame': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(28,86): error C2065: 'aTotalOfCreditsLostInGame': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(28,113): error C2065: 'aBoolForPlayingGame': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(28,26): error C3861: 'TotalWinnings': identifier not found
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(30,32): error C2065: 'gen': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(30,21): error C3861: 'diceRandom': identifier not found
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(31,32): error C2065: 'gen': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(31,21): error C3861: 'diceRandom': identifier not found
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(32,23): error C2653: 'CasinoFunctions': is not a class or namespace name
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(32,40): error C3861: 'Diceroll': identifier not found
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(42,14): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(42,14): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(42,80): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(42,80): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(44,23): error C2653: 'CasinoFunctions': is not a class or namespace name
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(44,77): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(44,40): error C3861: 'BettingOK': identifier not found
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(45,9): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(46,38): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(48,14): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(48,14): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(49,14): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(49,14): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(49,68): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(49,68): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(50,14): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(50,14): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(50,40): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(50,40): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(51,14): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(51,14): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(51,41): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(51,41): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(59,18): error C2039: 'cin': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(59,18): error C2065: 'cin': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(62,17): error C2065: 'aValidGuess': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(65,27): error C2039: 'cin': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(65,27): error C2065: 'cin': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(67,22): error C2039: 'cin': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(67,22): error C2065: 'cin': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(68,22): error C2039: 'cin': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(68,22): error C2065: 'cin': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(73,22): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(73,22): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(73,76): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(73,76): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(77,17): error C2065: 'aValidGuess': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(82,22): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(82,22): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(87,22): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(87,22): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(93,22): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(93,22): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(93,168): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(93,168): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(94,17): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(95,17): error C2653: 'CasinoFunctions': is not a class or namespace name
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(95,58): error C2065: 'aStatisticForGames': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(95,78): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(95,34): error C3861: 'StatisticsForLast5Games': identifier not found
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(96,17): error C2065: 'aTotalOfCreditsWonInGame': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(96,45): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(98,46): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(99,22): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(99,22): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(106,22): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(106,22): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(106,168): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(106,168): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(107,17): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(108,17): error C2653: 'CasinoFunctions': is not a class or namespace name
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(108,58): error C2065: 'aStatisticForGames': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(108,78): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(108,34): error C3861: 'StatisticsForLast5Games': identifier not found
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(109,17): error C2065: 'aTotalOfCreditsWonInGame': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(109,45): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(111,46): error C2065: 'aBetIsMade': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(112,22): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(112,22): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(118,22): error C2039: 'cout': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(118,22): error C2065: 'cout': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(118,124): error C2039: 'endl': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\array(20,1): message : see declaration of 'std'
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(118,124): error C2065: 'endl': undeclared identifier
+C:\Users\alexander.andersso5\source\repos\ClassyKasino\ClassyKasino\OddOrEven.cpp(118,128): fatal  error C1003: error count exceeds 100; stopping compilation
+  Generating Code...
