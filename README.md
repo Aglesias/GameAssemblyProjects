@@ -1,4 +1,4 @@
-This is mostly school project code that was used creating games in an in house engine at The Game Assembly.
+This is school project code that was used creating games in an in house engine at The Game Assembly.
 
        * Animation saver is a project that writes bone possitions from an animations and writes it to a texture 
        to be able to make looping animations play by reading the positions from the texture, this to unload the CPU 
