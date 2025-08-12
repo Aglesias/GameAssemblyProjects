@@ -1,6 +1,6 @@
 This is school project code that was used creating games in an in house engine at The Game Assembly.
 
-       * Animation saver is a project that writes bone possitions from an animations and writes
+       * Animation saver is a project that writes bone possitions from an animation and writes
        it to a texture to be able to make looping animations play by reading the positions 
        from the texture, this to unload the CPU since it wont need to do a lot of the matrix
        math associated with animations.
